@@ -1,11 +1,2 @@
-# Определитель языка.
+![image](https://github.com/user-attachments/assets/1169c9ac-0454-4380-914e-8b663dfcb8a0)
 
-### Итоговый проект по учебной дисциплине "Программная инженерия" магистратуры УрФУ "Инженерия машинного обучения". (работаю один)
-
-Данное web-приложение представляет из себя определитель языка.
-
-Разработано на основе библиотеки "streamlib". 
-
-Используемая модель - "papluca/xlm-roberta-base-language-detection" из библиотеки машинного обучения Hugging Face.
-
-Web-версия: https://finalproject-q9oca8u2zdv7cmbh9ry2uz.streamlit.app
